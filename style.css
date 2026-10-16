@@ -160,3 +160,4 @@ h2{font-weight:600;font-size:clamp(24px,7vw,32px);line-height:1.1}
 .shint.ok{color:var(--bg);background:var(--gold);border-color:var(--gold);animation:none}
 @keyframes pulseT{50%{opacity:.5}}
 .nudge{pointer-events:auto;cursor:pointer;touch-action:manipulation}
+#music{display:none!important}
